@@ -1,4 +1,4 @@
-module server-grpc-caller-mcp
+module grpc-invoke-mcp
 
 go 1.26
 
